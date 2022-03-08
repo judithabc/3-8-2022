@@ -2,26 +2,19 @@
 
 ```markdown
 
-# Header 1
-## Header 2
-### Header 3
+我写这个真的是因为一个吐槽
+我突然想到
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+就，心理学——————一个在娱乐领域被迫害的学科
+比如心理治疗师，
+还有各种反派教授
 ```
 
-### TITLE
+### 两部剧的相似之处
 
 CONTENT
 
-### 1
+### 
 
 CONTENT
 
